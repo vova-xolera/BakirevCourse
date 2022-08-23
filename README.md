@@ -1,2 +1,2 @@
-# BakirevCourse
-Base Python Course of Bakirev from Stepic
+# BalakirevCourse
+Base Python Course of Balakirev from Stepic
